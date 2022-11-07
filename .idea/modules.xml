@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DataStructures.iml" filepath="$PROJECT_DIR$/.idea/DataStructures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Javaproject/Javaproject.iml" filepath="$PROJECT_DIR$/Javaproject/Javaproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javatutorial/javatutorial.iml" filepath="$PROJECT_DIR$/javatutorial/javatutorial.iml" />
+    </modules>
+  </component>
+</project>
